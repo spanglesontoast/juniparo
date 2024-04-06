@@ -382,7 +382,7 @@
   text-align: center;
 }
 
-.markup span.align-center span img
+.markup span.align-center span img,
 .markup span.align-center span video {
   margin: 0 auto;
   text-align: center;
